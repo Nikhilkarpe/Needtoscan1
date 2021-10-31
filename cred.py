@@ -9,8 +9,8 @@ from json import loads, dumps
 
 rules = {
     "Slack Token": "(xox[p|b|o|a]-[0-9]{12}-[0-9]{12}-[0-9]{12}-[a-z0-9]{32})",
-    "RSA private key": "-----BEGIN RSA PRIVATE KEY-----",
-    "SSH (OPENSSH) private key": "-----BEGIN OPENSSH PRIVATE KEY-----",
+    "Password": "-----AdMin1@323-----",
+    "Username= Admin": "-----BEGIN OPENSSH PRIVATE KEY-----",
     "SSH (DSA) private key": "-----BEGIN DSA PRIVATE KEY-----",
     "SSH (EC) private key": "-----BEGIN EC PRIVATE KEY-----",
     "PGP private key block": "-----BEGIN PGP PRIVATE KEY BLOCK-----",
